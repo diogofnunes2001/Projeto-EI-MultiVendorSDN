@@ -7,9 +7,3 @@ terraform {
     }
   }
 }
-
-provider "aws" {
-  region     = "eu-south-2"
-  access_key = "AKIA4W45YFE6XJL7DEWU"
-  secret_key = "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"
-}
